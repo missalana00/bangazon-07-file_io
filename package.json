@@ -1,0 +1,19 @@
+{
+  "name": "bangazon-07-file_io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missalana00/bangazon-07-file_io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missalana00/bangazon-07-file_io/issues"
+  },
+  "homepage": "https://github.com/missalana00/bangazon-07-file_io#readme"
+}
