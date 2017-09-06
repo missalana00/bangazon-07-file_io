@@ -4,8 +4,8 @@
 // console.log(fs); // gave us the whole node module
 // console.log(fs.readFileSync); // access the readFileSync property from the node module (fs)
 
-// This particular method on this particular node module takes an argument on a file path
-// and prints the contents as a strin to the terminal
+// This particular method on this particular node module takes an argument of a file path
+// and prints the contents as a string to the terminal
 
 // Destructured node module to pluck out thie readFileSync method
 const { readFileSync } = require("fs");
