@@ -7,7 +7,7 @@
 // This particular method on this particular node module takes an argument of a file path
 // and prints the contents as a string to the terminal
 
-// Destructured node module to pluck out thie readFileSync method
+// Destructured node module to pluck out the readFileSync method
 const { readFileSync } = require("fs");
 
 // Here we are grabbing the argument of a command line script; in this case, 
@@ -32,5 +32,6 @@ if (argInput) {
     }
 };
 
+// To run this code, you would type "node file-io.js ./my.txt" in your terminal  
 
 
